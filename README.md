@@ -31,7 +31,6 @@ Create a function that receives a list of strings that are arithmetic problems a
 ----    ------    ------    -----
   40     -3800     19998      474
 ```
-<br/>
 
 ## Rules
 The function will return the correct conversion if the supplied problems are properly formatted, otherwise, it will return a string that describes an error that is meaningful to the user.
