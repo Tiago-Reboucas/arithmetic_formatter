@@ -14,7 +14,7 @@ Students in primary school often arrange arithmetic problems vertically to make 
 Create a function that receives a list of strings that are arithmetic problems and returns the problems arranged vertically and side-by-side. The function should optionally take a second argument. When the second argument is set to True, the answers should be displayed.
 
 ## Examples
-- Function Call:
+**Function Call**:
 
 arithmetic_arranger(["32 + 698", "3801 - 2", "45 + 43", "123 + 49"])
 
@@ -24,8 +24,8 @@ Output:
 + 698    -    2    + 43    +  49
 -----    ------    ----    -----
 ```
-
-- Function Call:
+<br/><br/>
+**Function Call**:
 
 arithmetic_arranger(["32 + 8", "1 - 3801", "9999 + 9999", "523 - 49"], True)
 
@@ -36,7 +36,7 @@ Output:
 ----    ------    ------    -----
   40     -3800     19998      474
 ```
-
+<br/><br/>
 ## Rules
 The function will return the correct conversion if the supplied problems are properly formatted, otherwise, it will return a string that describes an error that is meaningful to the user.
 
