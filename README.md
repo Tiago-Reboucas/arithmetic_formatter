@@ -5,7 +5,7 @@ Full code run with examples test can be found in: https://replit.com/@tiagorebou
 
 Students in primary school often arrange arithmetic problems vertically to make them easier to solve. For example, "235 + 52" becomes:
 
-  235<br/>
+  __235<br/>
 \+  52<br/>
 \-\-\-\-\-
 
